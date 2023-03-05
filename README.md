@@ -1,8 +1,9 @@
 # RSA-algorithm
 DALL·E 2023-03-04 22.56.38 - 3d render of The RSA algorithm (Rivest-Shamir-Adleman)  in basquiat style.png
 
-![Screenshot](DALL·E 2023-03-04 22.56.38 - 3d render of The RSA algorithm (Rivest-Shamir-Adleman)  in basquiat style.png)
+[Screenshot](DALL·E 2023-03-04 22.56.38 - 3d render of The RSA algorithm (Rivest-Shamir-Adleman)  in basquiat style.png)
 
+![alt text](https://github.com/mitch-henderson/RSA-algorithm/DALL·E 2023-03-04 22.56.38 - 3d render of The RSA algorithm (Rivest-Shamir-Adleman)  in basquiat style.png?raw=true)
 
 My implementation of the security protocol commonly referred to as RSA
 Here you are going to see an implementation of the security protocol comonly referred to as RSA. I start by converting text into ascii characters. From there I take these characters and expand them into their binary expansion. I create two tool sets.
