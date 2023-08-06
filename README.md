@@ -4,7 +4,8 @@
 
 My implementation of the security protocol commonly referred to as RSA
 Here you are going to see an implementation of the security protocol comonly referred to as RSA. I start by converting text into ascii characters. From there I take these characters and expand them into their binary expansion. I create two tool sets.
-The first tool set will run an algorithm called Fast Modular Exponentiation. This will be used to first encrypt the message, and then subsequently to decrypt the message. It will be sped up using the binary expansion of the ascii characters to help decrypt other people's codes.
+The first tool set will run an algorithm called [Fast Modular Exponentiation]([URL](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation))
+. This will be used to first encrypt the message, and then subsequently to decrypt the message. It will be sped up using the binary expansion of the ascii characters to help decrypt other people's codes.
 Then, also in the first toolset, I run another algorithm called Exapnded Euclidean Algorithm. This will be used to determine the value of "d". "d" is the inverse of e modulo (p-1)(q-1). We keep these values d and n as our private key.
 The functions in the second toolset will generate the public and private key pairs which will then be used to create a ciphertext using the public key and then decode the same using the private key. So here in my second toolset, find_public_key, I have a function that will produce two values, e and n. This function will run a loop to find e such that e is relatively prime to (p - 1) (q - 1) and not equal to p or q.
 Then, in my second toolset, find_private_key, I have a function to find the decryption exponent d such that d is the modular inverse of e. This uses the Extended Eucliean Algorithm and returns d: the decryption component.
