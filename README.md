@@ -1,6 +1,6 @@
 # RSA-algorithm
 
-![RSA-algorithm](https://github.com/mitch-henderson/RSA-algorithm/blob/main/DALL%C2%B7E%202023-03-04%2022.56.38%20-%203d%20render%20of%20The%20RSA%20algorithm%20(Rivest-Shamir-Adleman)%20%20in%20basquiat%20style.png?raw=true)
+![RSA-algorithm](https://github.com/mitch-henderson/RSA-algorithm/blob/main/2023_08_mitch___h_rsa_encryption.png)
 
 My implementation of the security protocol commonly referred to as [RSA(Rivest–Shamir–Adleman)](https://www.encryptionconsulting.com/education-center/what-is-rsa). I start by [converting text into ascii characters](https://onlinestringtools.com/convert-string-to-ascii). From there I take these characters and expand them into their binary expansion. I create two tool sets.
 The first tool set will run an algorithm called [Fast Modular Exponentiation](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/fast-modular-exponentiation)
