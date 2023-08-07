@@ -1,4 +1,4 @@
-# RSA-algorithm
+# RSA Security Protocol Implementation: Encryption, Decryption, Key Generation, and Message Recovery
 
 ![RSA-algorithm](https://github.com/mitch-henderson/RSA-algorithm/blob/main/2023_08_mitch___h_rsa_encryption.png)
 
