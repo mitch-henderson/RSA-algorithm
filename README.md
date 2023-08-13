@@ -1,6 +1,6 @@
 # RSA Security Protocol Implementation: Encryption, Decryption, Key Generation, and Message Recovery
 
-![RSA-algorithm](https://github.com/mitch-henderson/RSA-algorithm/blob/main/2023_08_mitch___h_rsa_encryption.png)
+![RSA-algorithm](https://github.com/mitch-henderson/RSA-algorithm/blob/main/2023_08_mitch___h_Message_Encoding_between_miami_vice_characters_using__f82cec54-3dc0-41b5-acc6-5c6158d78217.png)
 
 
 # RSA Security Protocol Implementation
