@@ -9,7 +9,7 @@ Welcome to my detailed RSA (Rivest–Shamir–Adleman) security protocol impleme
 
 ## Overview
 The core of this project revolves around text-to-binary conversion, Fast Modular Exponentiation for encryption and decryption, and the Extended Euclidean Algorithm for key generation.
-
+ 
 ### Text-to-Binary Conversion
 I initiate the process by [transforming text into ASCII characters](https://onlinestringtools.com/convert-string-to-ascii) and subsequently expand these characters into their binary representation.
 
